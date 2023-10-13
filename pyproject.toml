@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "litestar-hello-world"
+name = "rumahku"
 version = "0.1.0"
-description = "A minimal template for Litestar based projects"
+description = "Service to support semantic search over e-commerce ctalog"
 authors = []
 
 [tool.poetry.dependencies]
