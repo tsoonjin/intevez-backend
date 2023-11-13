@@ -10,7 +10,7 @@ litestar = {extras = ["standard"], version = "^2.2.1"}
 # litestar = { extras = ["standard"], path = "../litestar/", develop = true }
 weaviate-client = "^3.25.2"
 python-dotenv = "^1.0.0"
-pandas = "^2.1.2"
+pandas = "^2.1.3"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "*"
